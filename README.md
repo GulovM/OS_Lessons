@@ -11,3 +11,12 @@ Here are the assigments for the subject OS
 4. Calculate the sum of the vector in parts, placing each part in a separate thread.
 
 5. Measure the program's execution time and compare it with the previous one.
+
+----------------------------------
+## Results: 
+* Sum (single thread): 50510116
+* Time (1 thread): 0.0025376 s
+* Sum (4 threads): 50510116
+* Time (4 threads): 0.0069016 s
+* Speedup: 0.367683x
+----------------------------------
